@@ -1,6 +1,6 @@
 #pragma once
 
-//#include "stdafx.h"
+//Because the tests are simple, the declarations and definitions are in the header file.
 
 #include "MinHook.h"
 #include <iostream>

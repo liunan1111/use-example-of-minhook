@@ -21,8 +21,8 @@ using namespace std;
 int main()
 {
 	cout<<"========================================="<<endl;
-	cout<<"1:运行hook win api测试"<<endl;
-	cout<<"2:运行hook common function测试"<<endl;
+	cout<<"1:test hook win api"<<endl;
+	cout<<"2:test hook common function"<<endl;
 	cout<<"========================================="<<endl;
 
 	cout<<"input:"<<endl;

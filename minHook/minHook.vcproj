@@ -197,14 +197,6 @@
 					/>
 				</FileConfiguration>
 			</File>
-			<File
-				RelativePath=".\test_hook_common_function.h"
-				>
-			</File>
-			<File
-				RelativePath=".\test_hook_win_api.h"
-				>
-			</File>
 		</Filter>
 		<Filter
 			Name="Header Files"
@@ -217,6 +209,14 @@
 			</File>
 			<File
 				RelativePath=".\targetver.h"
+				>
+			</File>
+			<File
+				RelativePath=".\test_hook_common_function.h"
+				>
+			</File>
+			<File
+				RelativePath=".\test_hook_win_api.h"
 				>
 			</File>
 		</Filter>
